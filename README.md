@@ -17,4 +17,4 @@ In terms of optimization I would go back and refractor my css. Some media quieri
 
 ## Lessons Learned:
 
-I learned how to use media queries to make my website responsive. 
+I learned how to use media queries to make my website more responsive. 
