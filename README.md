@@ -1,7 +1,7 @@
 # Ayesha
 A hair salon website created with HTML5 and CSS3. Utilizes responsive web design to fit any device / screen size
 
-**Link to project:** https://lucas-delvillar.netlify.app
+**Link to project:** https://ld-ayesha.netlify.app
 
 ![alt tag](https://i.imgur.com/wiBA7Mc.jpg)
 
